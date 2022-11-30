@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name openS-rescue)(type Legacy)(uri ${KIPRJMOD}/openS-rescue.lib)(options "")(descr ""))
+  (lib (name ESP8266)(type Legacy)(uri ${CUSTOM}/ESP8266.lib)(options "")(descr ""))
+  (lib (name freetronics_schematic)(type Legacy)(uri ${CUSTOM}/freetronics_schematic.lib)(options "")(descr ""))
+  (lib (name procsynth2)(type Legacy)(uri ${CUSTOM}/procsynth.pretty/procsynth2.lib)(options "")(descr ""))
+)
